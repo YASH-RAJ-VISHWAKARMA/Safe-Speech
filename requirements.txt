@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+transformers
+torch
+sentencepiece
+sqlalchemy
+python-dotenv
+requests
+nltk
+pydantic
+typing_extensions
