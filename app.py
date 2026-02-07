@@ -11,7 +11,7 @@ from google.genai import types
 MODEL_NAME = "gemini-2.5-flash"  # good balance of speed + quality
 
 # Initialize Gemini client
-API_KEY = "AIzaSyDXdTuzhylmBMCH1zNcjkNHaJgRA_DwC6U"
+API_KEY = "Your Api key"
 if not API_KEY:
     raise RuntimeError(
         "Please set GEMINI_API_KEY or GOOGLE_API_KEY environment variable."
